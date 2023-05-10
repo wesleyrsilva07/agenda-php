@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a72af7f-c336-4e42-9b22-5ed94045ba62" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sXAnZl0aENyrlg767prVYLtZ22" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xamp\htdocs\agenda" />
+      <recent name="C:\Users\Public\Pictures\agenda" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="cadastroContato.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/cadastroContato.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.cadastroContato.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a72af7f-c336-4e42-9b22-5ed94045ba62" name="Default Changelist" comment="" />
+      <created>1621008727923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621008727923</updated>
+      <workItem from="1621008729869" duration="4787000" />
+      <workItem from="1621089954565" duration="4983000" />
+      <workItem from="1621261625945" duration="167000" />
+      <workItem from="1621988944946" duration="638000" />
+      <workItem from="1622080160237" duration="349000" />
+      <workItem from="1622675544791" duration="1968000" />
+      <workItem from="1622914437102" duration="93000" />
+      <workItem from="1622995629294" duration="3205000" />
+      <workItem from="1623078313152" duration="4267000" />
+      <workItem from="1623159836711" duration="304000" />
+      <workItem from="1623162058647" duration="5778000" />
+      <workItem from="1623245531516" duration="1019000" />
+      <workItem from="1623336342436" duration="4715000" />
+      <workItem from="1623689484408" duration="2592000" />
+      <workItem from="1624143006554" duration="2819000" />
+      <workItem from="1624240938954" duration="1275000" />
+      <workItem from="1624280068860" duration="607000" />
+      <workItem from="1624545578236" duration="1510000" />
+      <workItem from="1624892656757" duration="3686000" />
+      <workItem from="1625092941767" duration="2888000" />
+      <workItem from="1625233031732" duration="2271000" />
+      <workItem from="1625448351868" duration="1811000" />
+      <workItem from="1625839351019" duration="1583000" />
+      <workItem from="1626705908144" duration="4798000" />
+      <workItem from="1626786678917" duration="2443000" />
+      <workItem from="1627003841609" duration="1496000" />
+      <workItem from="1627823609929" duration="7243000" />
+      <workItem from="1627872247707" duration="506000" />
+      <workItem from="1627913966787" duration="2524000" />
+      <workItem from="1627946437567" duration="5003000" />
+      <workItem from="1627997473384" duration="10623000" />
+      <workItem from="1628353352352" duration="784000" />
+      <workItem from="1628354204589" duration="2200000" />
+      <workItem from="1628607367401" duration="6676000" />
+      <workItem from="1628690703214" duration="6423000" />
+      <workItem from="1628770945992" duration="7120000" />
+      <workItem from="1628778810117" duration="8143000" />
+      <workItem from="1628863320356" duration="3293000" />
+      <workItem from="1628956894105" duration="11691000" />
+      <workItem from="1629034430108" duration="2044000" />
+      <workItem from="1629037228658" duration="11960000" />
+      <workItem from="1629115347733" duration="14645000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
